@@ -1,0 +1,12 @@
+Aquest apràctiac està dividida en diferents notebooks. 
+Tot cercant el millor escenari, he practicat amb diferents Preprocessing Methods, Models, SamplingMethods...
+L'ordre dels documents seria:
+
+
+_Supervisat_Preprocessing
+_Supervisat
+_Supervisat_Sampling
+_Supervisat_SVM
+_Supervisat_SenseDepDelay
+
+Enjoy!
