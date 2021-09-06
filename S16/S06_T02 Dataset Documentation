@@ -1,0 +1,33 @@
+Title: Bolsa de Madrid: Technology and Telecommunications' Shares Session Prices 
+
+Author: 
+Name: Ortega, Bel
+e-mail: ortegbel@gmail.com
+github: https://github.com/Ortegbel
+
+DATA SET OVERVIEW:
+
+The datasets contains the session prices of the Technology and Telecommunications enterprises achives in Bolsa de Madrid during September the 3rd. 
+WWw.bolsamadrid.es
+
+DATA COLLECTION AND PROCESSING:
+
+The dataset is the raw data from the bolsa de madrid side. It was collected using Selenium.
+
+DATA:
+
+The Data is contained in a Pandas DataFrame, it can be easily exported to cvs if needed.
+
+Content:
+Nombre: Company Name
+Mercado: Market name
+Últ. :Last price
+% Dif.: The percentage Difference between the actual and last quotaion.
+Máx.:Max price achieved
+Mín.:Min price achieved
+Volumen: Volume
+Efectivo (miles €): Turnover in €
+Fecha: date
+Hora: time
+
+
